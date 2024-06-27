@@ -1,0 +1,4 @@
+name: common-app
+image: nginx:latest
+port: 80
+message: "Hello World from Common Template"
